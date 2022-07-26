@@ -11,7 +11,7 @@ The PNY DDR4 DRAM in this PC sucks and crashes ReviOS 10 sometimes. I plan to fi
 - PNY 8GB DDR4 DRAM @ 2666MHz
 ## HP Compaq 8200 Elite Convertible Minitower PC
 Just a quick heads up: I'm gonna be restoring and reusing this PC again hopefully in the end of this year. Since I've been interested of Linux and KVM stuff I could give this computer a blow again, switching out the old mechanical hard drives, installing a specific distro and see what else I can do with it
-- ZOTAC GeForce GTX 1050 Ti Mini (Extra MSI RX 480 GPU coming soon)
+- ZOTAC GeForce GTX 1050 Ti Mini (Extra RX 550 GPU coming soon)
 - 20GB DDR3 RAM (32GB upgrade coming soon)
 - Intel® Core™ i5-2500 (i7-2600 upgrade coming soon)
 - Stock 320W power supply (750W ATX power supply coming soon)
