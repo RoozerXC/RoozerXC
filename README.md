@@ -6,7 +6,7 @@ I have two computers. Boop ;0 I might have plans to restore and reuse the HP Com
 
 - ### *Acer Aspire A515-43-R19L*
   - AMD Ryzen™ 3 3200U Mobile Processor with AMD Radeon™ Vega 3 Graphics
-  - PNY 8GB DDR4 DRAM @ 2666MHz (sucks)
+  - PNY 8GB DDR4 DRAM @ 2666MHz
 - ### *HP Compaq 8200 Elite Convertible Minitower PC*
   - ZOTAC GeForce GTX 1050 Ti Mini
     - Additional Radeon RX 6400 coming soon
