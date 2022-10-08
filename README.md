@@ -1,5 +1,5 @@
 ## *About me*
-HEY. My name is **Roozy McRoozer** (you can also call me **Trevor**) and I make mode (get it?) for **Amnesia: The Dark Descent**. I occasionally listen to a bit of **deathcore** (Give a big W for **Lorna Shore** because they're awesome) and last but not least, my birthday is **November 13**
+[Go to my Neocities website for more information about me](https://roozerxc.neocities.org)
 
 ## *Specs*
 I have two computers. Boop ;0 I might have plans to restore and reuse the HP Compaq 8200 Elite PC as a Linux+KVM multimachine. Hopefully this should be done either in the end of this year, or earlier next year. Or maybe later than next year, who knows ;0
