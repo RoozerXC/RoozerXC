@@ -14,6 +14,6 @@ I have two computers. Boop ;0 I might have plans to restore and reuse the HP Com
   - Stock 320W power supply
 
 ## *Contact info*
-You can add me on Discord with my tag **Roozy#7211**, or shoot a message to my contact email: **contact.roozerxc@gmail.com**
+You can add me on Discord with my tag **Roozy#8925**, or shoot a message to my contact email: **contact.roozerxc@gmail.com**
 
 **BEWARE OF IMPOSTERS AND CHECK ANY SUSCEPTING TAGS/EMAIL ADDRESSES :)**
