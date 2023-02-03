@@ -9,6 +9,6 @@
   - Stock 320W power supply
 
 ## *Contact info*
-You can add me on Discord with my tag **Roozy#8925**, or shoot a message to my contact email: **contact.roozerxc@gmail.com**
+You can add me on Discord with my tag **Roozy#5294**, or shoot a message to my contact email: **contact.roozerxc@gmail.com**
 
 **BEWARE OF IMPOSTERS AND CHECK ANY SUSCEPTING TAGS/EMAIL ADDRESSES :)**
