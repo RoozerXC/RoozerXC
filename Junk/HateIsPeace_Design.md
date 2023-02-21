@@ -1,6 +1,9 @@
 # Hate is Peace - Open Design Docs
 Hate is Peace is a first-person shooter sandbox game using Amnesia: The Dark Descent's engine. While the engine may be very unusual to work with for a first-person shooter game, I believe that it should be more appropriate and fit for the long run, as it has easy-to-use developer tools for modders and some documentation. Maybe it could be, who knows
 
+## Story
+lol remember what Carmack said right? "Story in a game is like story in a porn movie. It's expected to be there, but its not that important"
+
 ## Characters
 ### Main
 #### Roozer
@@ -29,7 +32,7 @@ A quiet and dormant but open-minded old friend of Roozer, Willow is Sarven's big
 
 There's a reason why Sarven could run away from Willow. Firstly, for some reason she can sometimes come off as intimidating especially whenever she is around. Secondly, she can also sometimes go feral if things ever piss her off or make her angry. Lastly, it's usually recommended that people don't mess with her. Whatever they do, she means very serious business, and she really means it
 
-## For Developers
+## For Developers + Modders
 ### Directory Structure
 Hate is Peace utilizes a directory structure akin to that of Amnesia: The Dark Descent (because it uses the same engine duh):
 - `addons` - User-created content, mods or Add-Ons
@@ -49,21 +52,23 @@ Hate is Peace utilizes a directory structure akin to that of Amnesia: The Dark D
 
 ### Development Tools and SDK
 Hate is Peace also has the following developer tools. Most of them are WYSIWYG (What you see is what you get) editors:
+- **(NEW)** `HpsEditor` - Block-based tool used to create, edit and save script files for maps 
+- **(NEW)** `LangEditor` - Used to create, edit and save language files
+- **(NEW)** `SntEditor` - Used to create, edit and save sound files
+- **(NEW)** `SkinEditor` - Used to create, edit, and save gui/skin files
 - `EntityEditor` - Used to create, edit and view entities/objects
 - `EntityViewer` - Used to view and play around with entities
 - `LevelEditor` - Used to create, edit and view maps/levels
 - `LevelViewer` - Used to view maps/levels
-- `LangEditor` - Used to create, edit and save language files
 - `MaterialEditor` - Used to create, edit and view texture maps for primitives or objects
 - `ParticleEditor` - Used to create, edit and view particle effects
-- `SntEditor` - Used to create, edit and save sound files
-- `SkinEditor` - Used to create, edit, and save gui/skin files
 
 ## Creation
 These are the tools I use to craft Hate is Peace. All of them can be obtained by downloading, buying or pirating them if you're devious enough
 
 ### Code
 - [Notepad++](https://notepad-plus-plus.org/) - for editing HPS/Lang/txt/etc. files
+- [GitHub Desktop](https://desktop.github.com/) - for pushing code and commits
 - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) - for editing the source code lol
 
 ### Graphics
