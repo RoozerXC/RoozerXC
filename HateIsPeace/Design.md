@@ -1,4 +1,4 @@
-# <p align="center"><img src="images/HIP_Wordmark_Fixed.png" width="512" alt="Hate is Peace" title="Hate is Peace"></p>
+<p align="center"><img src="images/HIP_ODD_NoCanvas.png" width="768" alt="Hate is Peace: Open Design Docs" title="Hate is Peace: Open Design Docs"></p>
 Hate is Peace is a first-person shooter sandbox game using Amnesia: The Dark Descent's engine. While the engine may be very unusual to work with for a first-person shooter game, I believe that it should be more appropriate and fit for the long run, as it has easy-to-use developer tools for modders and some documentation. Maybe it could be, who knows
 
 ## Characters
@@ -27,7 +27,7 @@ Sarven and Roozer both hate this guy because of all the damage that he had done 
 #### Willow
 A quiet and dormant but open-minded old friend of Roozer, Willow is Sarven's biggest fear. Even though she has never hurt anyone or doesn't mean to give out any bad intentions at all, Sarven can be easily scared and will immediately run away by her appearance
 
-There's a reason why Sarven could run away from Willow. Firstly, for some reason she can sometimes come off as intimidating especially whenever she is around. Secondly, she can also sometimes go feral if things ever piss her off or make her angry. Lastly, it's usually recommended that people don't mess with her. Whatever they do, she means very serious business, and she really means it
+There's a reason why Sarven could run away from Willow... Actually, three reasons: Firstly, for some reason she can sometimes come off as intimidating especially whenever she is around. Secondly, she can also sometimes go feral if things ever piss her off or make her angry. Lastly, it's usually recommended that people don't mess with her. Whatever they do, she means very serious business, and she really means it
 
 ## For developers and modders
 ### Directory structure
