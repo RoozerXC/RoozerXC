@@ -14,8 +14,7 @@ Alice is a weapons merchant and runs a store in the town, where she can be used 
 
 ## Bosses
 ### Sassy Sissies Stella and Zaynah
-
-Stella and Zay are twins who both seem to be older than Roozer. Unfortunately, they are far less mature, get distracted on their phones, watch too much TikTok, listen to too much K-pop, wear too much makeup, and speak British tongue (they might have broken teeth anyway since they speak in that accent). Apparently, they're like Panty and Stocking but much worse LMAOOOOO
+Stella and Zay are twins who both seem to be older than Roozer. Unfortunately, they are far less mature for their age, get way too distracted on their phones, watch too much TikTok, listen to too much K-pop, wear too much makeup which makes them look very artificial, and speak British tongue (they might have broken teeth anyway since they speak in that accent). Apparently, they're like Panty and Stocking but much worse
 
 ### Mecha-Maily + Jonathan Vaghaun
 A creation from the mind of a madman, Mecha-Maily/Mailman is a machine and a monster at the same time. Originally, he used to be tortured a lot by Willow simply because he was being a dumb freak and a wimp. Now with Mr. Vaghaun's efforts, he has been turned into a slaughter machine. Willow has absolutely feared this creation ever since, and never came back pestering Maily ever again
