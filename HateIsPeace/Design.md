@@ -1,8 +1,5 @@
-# Hate is Peace - Open Design Docs
+# <p align="center"><img src="images/HIP_Wordmark_Fixed.png" width="512" alt="Hate is Peace" title="Hate is Peace"></p>
 Hate is Peace is a first-person shooter sandbox game using Amnesia: The Dark Descent's engine. While the engine may be very unusual to work with for a first-person shooter game, I believe that it should be more appropriate and fit for the long run, as it has easy-to-use developer tools for modders and some documentation. Maybe it could be, who knows
-
-## Story
-lol remember what Carmack said right? "Story in a game is like story in a porn movie. It's expected to be there, but its not that important"
 
 ## Characters
 ### Main
@@ -32,8 +29,8 @@ A quiet and dormant but open-minded old friend of Roozer, Willow is Sarven's big
 
 There's a reason why Sarven could run away from Willow. Firstly, for some reason she can sometimes come off as intimidating especially whenever she is around. Secondly, she can also sometimes go feral if things ever piss her off or make her angry. Lastly, it's usually recommended that people don't mess with her. Whatever they do, she means very serious business, and she really means it
 
-## For Developers + Modders
-### Directory Structure
+## For developers and modders
+### Directory structure
 Hate is Peace utilizes a directory structure akin to that of Amnesia: The Dark Descent (because it uses the same engine duh):
 - `addons` - User-created content, mods or Add-Ons
 - `billboards` - Godray textures for lights
