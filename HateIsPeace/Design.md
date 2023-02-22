@@ -1,4 +1,4 @@
-<p align="center"><img src="images/HIP_ODD_NoCanvas.png" width="768" alt="Hate is Peace: Open Design Docs" title="Hate is Peace: Open Design Docs"></p>
+# Hate is Peace: Open Design Docs
 Hate is Peace is a first-person shooter sandbox game using Amnesia: The Dark Descent's engine. While the engine may be very unusual to work with for a first-person shooter game, I believe that it should be more appropriate and fit for the long run, as it has easy-to-use developer tools for modders and some documentation. Maybe it could be, who knows
 
 ## Characters
