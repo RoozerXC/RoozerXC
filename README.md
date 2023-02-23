@@ -1,5 +1,5 @@
 # *About me*
-Hey lol, my name is Roozy/Roozer. I'm usually very demotivated, but I sometimes work on [Casbah](https://github.com/RoozerXC/Casbah) and [Hate is Peace](HateIsPeace/Design.md), as well as tinker with old stuff and listen to a bunch of music (my favorite band is Falling in Reverse btw). I also compose music and plan to be a vocalist in the future
+Hey lol, my name is Roozy/Roozer. I'm usually very demotivated, but I sometimes work on [Casbah](https://github.com/RoozerXC/Casbah) and [Hate is Peace](HateIsPeace/Design.md), as well as tinker with old stuff and listen to a bunch of rock and metal music (my favorite band is Falling in Reverse btw). I also compose music and plan to be a vocalist in the future
 
 # *Specs*
 - ### *HP Compaq 8200 Elite Convertible Minitower PC*
