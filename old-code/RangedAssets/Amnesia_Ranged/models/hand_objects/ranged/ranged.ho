@@ -1,0 +1,26 @@
+<HandObject>
+	<Main
+		Model = "hand_ranged.ent"
+		Type = "Ranged"
+	/>
+
+	<Settings
+		OffsetScale = "1 1 1"
+		OffsetRotation = "-15 -5 -46"
+		OffsetPosition = "-0.1 -0.075 -0.025"
+
+		HandsAnim_Idle = "Lantern_Idle"
+		HandsAnim_Draw = "Lantern_Draw"
+		HandsAnim_Holster = "Lantern_Holster"
+		
+		DrawSound = "ranged_draw"
+		FireSound = "ranged_fire"
+		HolsterSound = "ranged_holster"
+		
+		Recoil = "0"
+		AttackMinDamage = "0"
+		AttackMaxDamage = "0"
+		
+		AttackStrength = "0"
+	/>
+</HandObject>

@@ -1,0 +1,9 @@
+<LANGUAGE>  
+	<CATEGORY Name="CustomStoryMain">
+		<Entry Name="Description">testing map for Amnesia_Ranged</Entry>
+	</CATEGORY>
+	<CATEGORY Name="Journal">
+		<Entry Name="Note_RangeIntro_Name">[br]</Entry>
+		<Entry Name="Note_RangeIntro_Text">Hello and welcome to the RANGE. Here you will be able to test your Rifle and shoot at the targets in front of you. Note that you cannot use your Lantern and your Rifle at the same time. Have fun</Entry>
+	</CATEGORY>
+</LANGUAGE>

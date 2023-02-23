@@ -1,0 +1,8 @@
+<Material>
+    <Main DepthTest="True" PhysicsMaterial="Metal" Type="SolidDiffuse" />
+    <TextureUnits>
+        <Diffuse AnimFrameTime="" AnimMode="" File="rifle1Color.tga" Mipmaps="true" Type="2D" Wrap="Repeat" />
+        <NMap AnimFrameTime="" AnimMode="" File="rifle1Normal.tga" Mipmaps="true" Type="2D" Wrap="Repeat" />
+        <Specular AnimFrameTime="" AnimMode="" File="rifle1Specular.tga" Mipmaps="true" Type="2D" Wrap="Repeat" />
+    </TextureUnits>
+</Material>

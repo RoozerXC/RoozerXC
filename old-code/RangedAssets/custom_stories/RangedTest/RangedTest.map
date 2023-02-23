@@ -1,0 +1,108 @@
+<Level>
+    <EditorSession>
+        <Performance CamClipPlanes="0.05 1000" LightsActive="true" PSActive="true" ShowFog="true" ShowSkybox="true" WorldReflection="true" />
+        <ViewportConfig BGColor="0.2 0.2 0.2 1" GAmbientLight="false" GPointLight="false" GridSnap="true" GridSnapSeparation="0.25" SelectedViewport="3" UsingEnlargedViewport="true">
+            <Viewport CameraPosition="0 0 180" CameraTarget="0 0 0" CameraZoom="0" GridHeight="0" GridPlane="2" Preset="0" RenderMode="1" ShowAxes="true" ShowGrid="true" UsingLTCam="true" />
+            <Viewport CameraPosition="180 0 0" CameraTarget="0 0 0" CameraZoom="0" GridHeight="0" GridPlane="0" Preset="1" RenderMode="1" ShowAxes="true" ShowGrid="true" UsingLTCam="true" />
+            <Viewport CameraPosition="0 180 0" CameraTarget="0 0 0" CameraZoom="0" GridHeight="0" GridPlane="1" Preset="2" RenderMode="1" ShowAxes="true" ShowGrid="true" UsingLTCam="true" />
+            <Viewport CameraPosition="0.0477028 3.19223 -5.50086" CameraTarget="3.44559 7.47617e-07 -0.2232" CameraZoom="1.96013" GridHeight="0" GridPlane="1" Preset="3" RenderMode="0" ShowAxes="false" ShowGrid="false" UsingLTCam="true" />
+        </ViewportConfig>
+        <Groups>
+            <Group ID="0" Name="None" Visible="true" />
+        </Groups>
+    </EditorSession>
+    <MapData FogActive="false" FogColor="1 1 1 1" FogCulling="true" FogEnd="20" FogFalloffExp="1" FogStart="0" GlobalDecalMaxTris="300" Name="" SkyBoxActive="false" SkyBoxColor="1 1 1 1" SkyBoxTexture="">
+        <MapContents>
+            <FileIndex_StaticObjects NumOfFiles="0" />
+            <FileIndex_Entities NumOfFiles="5">
+                <File Id="0" Path="entities/furniture/stove_front02/stove_front02.ent" />
+                <File Id="1" Path="entities/furniture/table_metal/table_metal.ent" />
+                <File Id="2" Path="entities/item/lantern/lantern.ent" />
+                <File Id="3" Path="Amnesia_Ranged/entities/item/item_ranged/item_ranged.ent" />
+                <File Id="4" Path="entities/item/note_scroll/note_scroll.ent" />
+            </FileIndex_Entities>
+            <FileIndex_Decals NumOfFiles="0" />
+            <StaticObjects />
+            <Primitives>
+                <Plane Active="true" AlignToWorldCoords="true" CastShadows="false" Collides="true" Corner1UV="-0.8 0.8" Corner2UV="-0.8 -0.8" Corner3UV="0.8 -0.8" Corner4UV="0.8 0.8" EndCorner="32 0 32" Group="0" ID="0" Material="C:/Users/Roozy/Desktop/roozers stuff/amnesia/Game/static_objects/mansionbase/floor/mansionbase_floor_boards.mat" Name="Plane" Rotation="0 0 0" Scale="1 1 1" StartCorner="0 0 0" Tag="" TextureAngle="0" TileAmount="0.05 1 0.05" TileOffset="0 0 0" WorldPos="-16 0 -16" />
+                <Plane Active="true" AlignToWorldCoords="false" CastShadows="false" Collides="true" Corner1UV="0 1" Corner2UV="0 0.5" Corner3UV="1 0.5" Corner4UV="1 1" EndCorner="2 0 2" Group="0" ID="15" Material="C:/Users/Roozy/Desktop/roozers stuff/amnesia/Game/Amnesia_Ranged/RangedTest/range_grunt.mat" Name="ShootingTarget_1" Rotation="-1.5708 -0.523599 -3.14159" Scale="1 1 1" StartCorner="0 0 0" Tag="" TextureAngle="0" TileAmount="0.5 1 0.25" TileOffset="0 0 0.5" WorldPos="4.75 3 2.25" />
+                <Plane Active="true" AlignToWorldCoords="false" CastShadows="false" Collides="true" Corner1UV="0 1" Corner2UV="0 0.5" Corner3UV="1 0.5" Corner4UV="1 1" EndCorner="2 0 2" Group="0" ID="16" Material="C:/Users/Roozy/Desktop/roozers stuff/amnesia/Game/Amnesia_Ranged/RangedTest/range_grunt.mat" Name="ShootingTarget_2" Rotation="-1.5708 0 -3.14159" Scale="1 1 1" StartCorner="0 0 0" Tag="" TextureAngle="0" TileAmount="0.5 1 0.25" TileOffset="0 0 0.5" WorldPos="1 3 3.75" />
+                <Plane Active="true" AlignToWorldCoords="false" CastShadows="false" Collides="true" Corner1UV="0 1" Corner2UV="0 0.5" Corner3UV="1 0.5" Corner4UV="1 1" EndCorner="2 0 2" Group="0" ID="17" Material="C:/Users/Roozy/Desktop/roozers stuff/amnesia/Game/Amnesia_Ranged/RangedTest/range_grunt.mat" Name="ShootingTarget_3" Rotation="-1.5708 0.523599 -3.14159" Scale="1 1 1" StartCorner="0 0 0" Tag="" TextureAngle="0" TileAmount="0.5 1 0.25" TileOffset="0 0 0.5" WorldPos="-3 3 3.25" />
+            </Primitives>
+            <Decals />
+            <Entities>
+                <Entity Active="true" FileIndex="0" Group="0" ID="6" Name="stove_front02_1" Rotation="0 0.523599 0" Scale="1 1 1" Tag="" WorldPos="4 0 3">
+                    <UserVariables>
+                        <Var Name="CastShadows" Value="true" />
+                        <Var Name="IsAffectedByDecal" Value="true" />
+                    </UserVariables>
+                </Entity>
+                <Entity Active="true" FileIndex="0" Group="0" ID="7" Name="stove_front02_2" Rotation="0 0 0" Scale="1 1 1" Tag="" WorldPos="0 0 4">
+                    <UserVariables>
+                        <Var Name="CastShadows" Value="true" />
+                        <Var Name="IsAffectedByDecal" Value="true" />
+                    </UserVariables>
+                </Entity>
+                <Entity Active="true" FileIndex="0" Group="0" ID="8" Name="stove_front02_3" Rotation="0 -0.523599 0" Scale="1 1 1" Tag="" WorldPos="-4 0 3">
+                    <UserVariables>
+                        <Var Name="CastShadows" Value="true" />
+                        <Var Name="IsAffectedByDecal" Value="true" />
+                    </UserVariables>
+                </Entity>
+                <Entity Active="true" FileIndex="1" Group="0" ID="11" Name="table_metal_1" Rotation="0 1.8326 0" Scale="1 1 1" Tag="" WorldPos="2 0 -3.5">
+                    <UserVariables>
+                        <Var Name="CastShadows" Value="true" />
+                        <Var Name="IsAffectedByDecal" Value="true" />
+                    </UserVariables>
+                </Entity>
+                <Entity Active="true" FileIndex="2" Group="0" ID="12" Name="lantern_1" Rotation="0 1.8326 0" Scale="1 1 1" Tag="" WorldPos="2.75 1.25 -3.75">
+                    <UserVariables>
+                        <Var Name="CastShadows" Value="true" />
+                        <Var Name="StaticPhysics" Value="false" />
+                        <Var Name="IsAffectedByDecal" Value="false" />
+                        <Var Name="CallbackFunc" Value="" />
+                        <Var Name="ConnectedProps" Value="" />
+                        <Var Name="ConnectionStateChangeCallback" Value="" />
+                        <Var Name="FullGameSave" Value="false" />
+                        <Var Name="PlayerLookAtCallback" Value="" />
+                        <Var Name="PlayerLookAtCallbackAutoRemove" Value="false" />
+                        <Var Name="PlayerInteractCallback" Value="" />
+                        <Var Name="PlayerInteractCallbackAutoRemove" Value="false" />
+                        <Var Name="CustomSubItemTypeName" Value="" />
+                    </UserVariables>
+                </Entity>
+                <Entity Active="true" FileIndex="3" Group="0" ID="13" Name="ranged_1" Rotation="2.0944 0.261799 -3.14159" Scale="1 1 1" Tag="" WorldPos="1.75 1.25 -3.5">
+                    <UserVariables>
+                        <Var Name="CastShadows" Value="true" />
+                        <Var Name="IsAffectedByDecal" Value="false" />
+                    </UserVariables>
+                </Entity>
+                <BoxLight Active="true" BlendFunc="0" CastShadows="false" DiffuseColor="1 1 1 1" FalloffMap="" FlickerActive="false" FlickerFade="false" FlickerOffColor="0 0 0 1" FlickerOffFadeMaxLength="0" FlickerOffFadeMinLength="0" FlickerOffMaxLength="0" FlickerOffMinLength="0" FlickerOffPS="" FlickerOffRadius="0" FlickerOffSound="" FlickerOnFadeMaxLength="0" FlickerOnFadeMinLength="0" FlickerOnMaxLength="0" FlickerOnMinLength="0" FlickerOnPS="" FlickerOnSound="" Gobo="" GoboAnimFrameTime="0" GoboAnimMode="None" Group="0" ID="14" Name="BoxLight_1" Radius="1" Rotation="0 0 0" Scale="32 32 32" ShadowResolution="High" ShadowsAffectDynamic="true" ShadowsAffectStatic="true" Size="32 32 32" Tag="" WorldPos="0 0 0" />
+                <Entity Active="true" FileIndex="4" Group="0" ID="18" Name="note_scroll_1" Rotation="-3.14159 -0.523599 -3.14159" Scale="1 1 1" Tag="" WorldPos="2.25 1.25 -4">
+                    <UserVariables>
+                        <Var Name="CastShadows" Value="true" />
+                        <Var Name="StaticPhysics" Value="false" />
+                        <Var Name="IsAffectedByDecal" Value="false" />
+                        <Var Name="CallbackFunc" Value="" />
+                        <Var Name="ConnectedProps" Value="" />
+                        <Var Name="ConnectionStateChangeCallback" Value="" />
+                        <Var Name="FullGameSave" Value="false" />
+                        <Var Name="PlayerLookAtCallback" Value="" />
+                        <Var Name="PlayerLookAtCallbackAutoRemove" Value="false" />
+                        <Var Name="PlayerInteractCallback" Value="" />
+                        <Var Name="PlayerInteractCallbackAutoRemove" Value="false" />
+                        <Var Name="CustomSubItemTypeName" Value="" />
+                        <Var Name="NoteText" Value="RangeIntro" />
+                        <Var Name="OpenNoteInJournal" Value="true" />
+                        <Var Name="UseNarration" Value="false" />
+                    </UserVariables>
+                </Entity>
+                <Area Active="true" AreaType="PlayerStart" Group="0" ID="21" Mesh="" Name="PlayerStartArea_1" Rotation="0 0.261799 0" Scale="1 1 1" Tag="" WorldPos="-1.25 0 -5.25">
+                    <UserVariables />
+                </Area>
+            </Entities>
+            <Misc />
+            <StaticObjectCombos />
+        </MapContents>
+    </MapData>
+</Level>
