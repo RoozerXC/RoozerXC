@@ -12,6 +12,9 @@ Hey lol, my name is Roozy/Roozer. I'm usually very demotivated, but I sometimes 
   - 512 MB RAM
   - Windows 2000 Professional, Service Pack 4
 
+# *Social stuff*
+I have a [Neocities website](https://roozerxc.neocities.org) and a [YouTube channel](https://youtube.com/@roozerxc) as well. I don't have twitter because i got banned for yelling at a pedo; I also don't have instagram and tiktok because I either don't like or use them anyways. I do have a moddb account (`StairDisembowler`), you can add me there if you want
+
 # *Contact info*
 You can add me on Discord with my tag **Roozy#5294**, or shoot a message to my contact email: **contact.roozerxc@gmail.com**
 
