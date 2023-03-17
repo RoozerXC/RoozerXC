@@ -1,0 +1,47 @@
+/**
+ * @name Roozer's Blue Theme
+ * @author RoozerXC
+ * @authorId 332523229514039296
+ * @version 1.0
+ * @description I never conquered, rarely came; tomorrow holds such better days, days when I can still feel alive
+ * @website https://roozerxc.neocities.org
+ */
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+@import url('https://fonts.cdnfonts.com/css/eternal-ui');
+
+:root {
+	--font: "Eternal UI";
+	--settingsicons: 1;
+
+	--accentcolor: 0,0,255;
+	--accentcolor2: 0,0,255;
+	--linkcolor: 0,0,255;
+	--mentioncolor: 0,0,255;
+	--successcolor: 0,0,255;
+	--warningcolor: 0,0,255;
+	--dangercolor: 0,0,255;
+
+	--textbrightest: 255,255,255;
+	--textbrighter: 224,224,224;
+	--textbright: 192,192,192;
+	--textdark: 160,160,160;
+	--textdarker: 128,128,128;
+	--textdarkest: 96,96,96;
+
+	--backgroundaccent: 0,0,64;
+	--backgroundprimary: 0,0,48;
+	--backgroundsecondary: 0,0,32;
+	--backgroundsecondaryalt: 0,0,24;
+	--backgroundtertiary: 0,0,16;
+	--backgroundfloating: 0,0,8;
+}
+
+.selected-2r1Hvo {
+	background-color: #0000ff !important;
+}
+
+.circleIcon-3489FI {
+	color: #0000ff !important;
+	color: #ffffff !important;
+}
