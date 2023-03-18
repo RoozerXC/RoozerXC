@@ -12,7 +12,7 @@
 
 - Sep 03, 2021: Chris enters the server; Willow takes another break (which was the longest break she took before deleting her account more than 2 weeks later)
 
-- Sep 20, 2021: I exit the "Kyan" phase out of comfort, knowing that Willow's friends might have forgotten about me. However, Willow then parts ways with me due to strict parenting, which (understandably) caused huge emotional distress; a day after that I tore up so much to the point where I wanted to come back home from school and rest to repair myself. We reunited 5 days later, but not everything is the same anymore as it used to be when we were besties (||To be honest, I would cut an arm and a leg than to be besties again since I hate my past memory so much, but that's just me beating myself down all too fucking much. Don't worry Willow, I'm still struggling and trying to figure things out by myself. If I can't, well shit. I might as well throw myself to rehab anyways since I'm starting to get insane||)
+- Sep 20, 2021: I exit the "Kyan" phase out of comfort, knowing that Willow's friends might have forgotten about me. However, Willow then parts ways with me due to strict parenting, which (understandably) caused huge emotional distress; a day after that I tore up so much to the point where I wanted to come back home from school and rest to repair myself. We reunited 5 days later, but not everything is the same anymore as it used to be when we were besties
 
 - Sep 26, 2021: SkitTea enters the server. Originally it used to be just some random alt account of mine, but this actually marks the early beginnings of SkitTea's existence
 
