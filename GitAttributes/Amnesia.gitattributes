@@ -11,6 +11,8 @@
 *.mat        linguist-language=XML
 *.map        linguist-language=XML
 *.ps         linguist-language=XML
+*.sps        linguist-language=XML
+*.rope       linguist-language=XML
 *.snt        linguist-language=XML
 *.comment    linguist-language=XML
 *.flash      linguist-language=XML
