@@ -1,5 +1,5 @@
 # *About me*
-Hey lol, my name is Roozy/Roozer. I'm usually very demotivated, but I sometimes work on [Casbah](https://github.com/RoozerXC/Casbah) and [Hate is Peace](HateIsPeace/Design.md), as well as tinker with old stuff sometimes. I also compose music and plan to be a vocalist in the future
+My name is Roozy/Roozer; I work on [Hate is Peace](HateIsPeace/Design.md), as well as tinker with old hardware sometimes. I also compose music and plan to be a vocalist in the future
 
 # *Specs*
 - ### *HP Compaq 8200 Elite Convertible Minitower PC*
@@ -13,7 +13,7 @@ Hey lol, my name is Roozy/Roozer. I'm usually very demotivated, but I sometimes 
   - Windows 2000 Professional, Service Pack 4
 
 # *Social stuff*
-I have a [Neocities website](https://roozerxc.neocities.org) and a [YouTube channel](https://youtube.com/@roozerxc) as well. I don't have twitter because i got banned for yelling at a pedo; I also don't have instagram and tiktok because I either don't like or use them anyways. I do have a moddb account (`StairDisembowler`), you can add me there if you want
+I have a [Neocities website](https://roozerxc.neocities.org) and a [YouTube channel](https://youtube.com/@roozerxc) as well
 
 # *Contact info*
 You can add me on Discord with my tag **Roozy#5294**, or shoot a message to my contact email: **contact.roozerxc@gmail.com**
