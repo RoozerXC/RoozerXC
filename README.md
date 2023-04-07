@@ -3,7 +3,7 @@ Hey, thank you for tuning into my github profile. You can call me Roozy, Roozer,
 
 I'm mostly demotivated, bored as hell and out of ideas. Sadly I have stopped making mods for Amnesia: The Dark Descent as it's not fun for me anymore as it used to be all those years ago. But if you want to suggest an idea, feel free to do so either in the [issues](https://github.com/RoozerXC/RoozerXC/issues) or [discussions](https://github.com/RoozerXC/RoozerXC/discussions) sections
 
-Currently I am working on [Hate is Peace](HateIsPeace/Design.md), a small little fps sandbox game using the Amnesia: The Dark Descent engine strictly for fun
+Currently I am working on [Hate is Peace](HateIsPeace/Design.md), a small little fps sandbox game using the Amnesia: The Dark Descent engine strictly for fun. It's going to be a very slow project though, so don't expect a release date (people already asked me for it and it's driving me fucking crazy. Already)
 
 I also tinker with old hardware as well as write music sometimes. I plan to compose mostly ambience music in the future which will be inspired by the ones from Lasting Light (Horror Doom mod)
 
