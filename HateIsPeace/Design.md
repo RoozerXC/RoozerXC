@@ -18,9 +18,6 @@ What used to be Willow's iMessage fuckboy and femboy, Simon has now turned into 
 
 Sarven and Roozer both hate this guy because of all the damage that he had done to Roozer, so they have all the right reasons to break his bones and kill him. Thankfully he is pretty weak, so it shouldn't be too much of a big deal showing the chinks in his armor by simply shooting him with a pea shooter. Which is obviously very funny, and makes Roozer and Sarven die laughing together whenever they attempt to destroy his "armor"
 
-### Sassy Sissies Stella and Zaynah
-Stella and Zay are twins who both seem to be older than Roozer. Unfortunately, they are far less mature for their age, get way too distracted on their phones, watch too much TikTok, listen to too much K-pop, wear too much makeup which makes them look very artificial, and speak British tongue (they might have broken teeth anyway since they speak in that accent). Apparently, they're like Panty and Stocking but much worse
-
 ### Natasha
 Obviously I don't have a better description for this bitch, so I guess I'll say that she's the type of person that would fit more in a psych ward than spending her life walking around in Mexico all for nothing. Oh, and she gets mentally insane over small shit and then blames it on someone else, when she clearly DID something herself. Like, I guess back in 2021 she used to make threats about killing herself after Roozer accidentally interrupted Willow... THE ABSOLUTELY FUNNY THING IS THAT IT WAS JUST A SMALL THING. AND SHE LITERALLY OVERREACTED TO SOMETHING THIS SMALL, SMALLER LIKE A DAMN STRAND OF HAIR 🤣 god I can't stand Generation Z people anymore after saying that
 
