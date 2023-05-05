@@ -9,10 +9,10 @@ Other than that, nice to meet you. If you want to look at my other stuff you can
 
 # *Specs*
 - ### *HP Compaq 8200 Elite Convertible Minitower PC*
-  - ZOTAC GeForce GTX 1050 Ti Mini
-  - 16GB DDR3 RAM
-  - Intel® Core™ i5-2500
   - Stock 320W power supply
+  - Intel® Core™ i5-2500
+  - 16GB DDR3 RAM
+  - ZOTAC GeForce GTX 1050 Ti Mini
 
 # *Contact info*
 You can add me on Discord with my tag **Roozy#5294**, or shoot a message to my contact email: **contact.roozerxc@gmail.com**
