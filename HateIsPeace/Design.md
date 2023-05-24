@@ -14,25 +14,14 @@ Alice is a weapons merchant and runs a store in the town, where she can be used 
 
 ## Bosses
 ### Simon
-What used to be Willow's iMessage fuckboy and femboy, Simon has now turned into a cheap bootleg knockoff of Davoth from DOOM Eternal :) Apparently, this boy is skinny weak and loves to wear maid outfits, while also busting to Chongyun x Xingqiu ships (I'll just call it Wang x Wong, simply because all these Chinese names are so God damn hard to pronounce for American tongues)
+The betrayer and destroyer of Roozer's former homeland, he is a ruthless boy who wears huge and heavy tactical armor. Apparently he is a shameless knockoff of Davoth from DOOM Eternal, and it can't be helped with the fact that he is just as weak as a french fry (just kidding, he'll probably kick your ass plenty)
 
-Sarven and Roozer both hate this guy because of all the damage that he had done to Roozer, so they have all the right reasons to break his bones and kill him. Thankfully he is pretty weak, so it shouldn't be too much of a big deal showing the chinks in his armor by simply shooting him with a pea shooter. Which is obviously very funny, and makes Roozer and Sarven die laughing together whenever they attempt to destroy his "armor"
-
-### Natasha
-Obviously I don't have a better description for this bitch, so I guess I'll say that she's the type of person that would fit more in a psych ward than spending her life walking around in Mexico all for nothing. Oh, and she gets mentally insane over small shit and then blames it on someone else, when she clearly DID something herself. Like, I guess back in 2021 she used to make threats about killing herself after Roozer accidentally interrupted Willow... THE ABSOLUTELY FUNNY THING IS THAT IT WAS JUST A SMALL THING. AND SHE LITERALLY OVERREACTED TO SOMETHING THIS SMALL, SMALLER LIKE A DAMN STRAND OF HAIR 🤣 god I can't stand Generation Z people anymore after saying that
-
-Anyway... yeah i dont know what to say about her, other than she's really insane. Like simon, she can be shot by a pea shooter but she's also somewhat stronger than him. Still doesn't make her invulnerable to high-damage attacks though
-
-### Mecha-Maily + Jonathan Vaghaun
-A creation from the mind of a madman, Mecha-Maily/Mailman is a machine and a monster at the same time. Originally, he used to be tortured a lot by Willow simply because he was being a dumb freak and a wimp. Now with Mr. Vaghaun's efforts, he has been turned into a slaughter machine. Willow has feared this creation ever since, and never came back to pester Maily ever again
-
-Maily is equipped with a rocket launcher, a laser and a machine gun on his arms. Part of his face are missing meat and eyes, so part of it shows his skull in the inside
+### Mecha-Maily + Professor Vaghaun
+A creation from the mind of a madman, Mecha-Maily/Mailman is a machine and a monster at the same time. Maily is equipped with a rocket launcher, a laser and a machine gun on his arms. Part of his face are missing meat and eyes, so part of it shows his skull in the inside
 
 ## Miscellany
 ### Willow
-A quiet and dormant but open-minded old friend of Roozer, Willow is Sarven's biggest fear. Even though she has never hurt anyone or doesn't mean to give out any bad intentions at all, Sarven can be easily scared and will immediately run away by her appearance
-
-There's a reason why Sarven could run away from Willow... Actually, three reasons: Firstly, for some reason she can sometimes come off as intimidating especially whenever she is around. Secondly, she can also sometimes go feral if things ever piss her off or make her angry. Lastly, it's usually recommended that people don't mess with her. Whatever they do, she means very serious business, and she really means it
+[DOCUMENT REDACTED]
 
 # For Devs & Modders
 Hate is Peace utilizes a directory structure akin to that of Amnesia: The Dark Descent (because it uses the same engine duh):
