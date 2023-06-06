@@ -11,7 +11,7 @@ Other than that, nice to meet you. If you want to look at my other stuff you can
 - ### *HP Compaq 8200 Elite Convertible Minitower PC*
   - Stock 320W power supply
   - Intel® Core™ i5-2500
-  - 16GB DDR3 RAM
+  - 32GB @ 1333 MHz DDR3
   - ZOTAC GeForce GTX 1050 Ti Mini
 
 # *Contact info*
