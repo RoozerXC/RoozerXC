@@ -15,6 +15,6 @@ Other than that, nice to meet you. If you want to look at my other stuff you can
   - ZOTAC GeForce GTX 1050 Ti Mini
 
 # *Contact info*
-You can add me on Discord with the username **`soullessroozer`**, or shoot a message to my contact email: **contact.roozerxc@gmail.com**
+You can either add me on Discord with the username **`soullessroozer`** or on Revolt with my tag **`Roozy#4867`**, or shoot a message to my contact email: **contact.roozerxc@gmail.com**
 
 **BEWARE OF IMPOSTERS AND CHECK ANY FAKE TAGS/EMAIL ADDRESSES.** have a good day :)
