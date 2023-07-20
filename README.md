@@ -13,6 +13,15 @@ Other than that, nice to meet you. If you want to look at my other stuff you can
   - Intel® Core™ i5-2500
   - 32GB @ 1333 MHz DDR3
   - ZOTAC GeForce GTX 1050 Ti Mini
+  - 500 GB SSD (Boot drive), 1 TB HDD (My stuff), 2 TB HDD (Music, games n yarr)
+  - Revision OS 10 23.07
+- ### *HP Pavilion p6330f Desktop Computer*
+  - ATX 600W power supply
+  - Intel® Core™ i3-530
+  - 4GB @ 664 MHz DDR3
+  - EVGA GeForce GT 220
+  - 128 GB SSD (Boot drive), 500 GB HDD (Stuff)
+  - Windows 2000 Professional SP4 / Windows XP Professional SP3 (Dual Boot)
 
 # *Contact info*
 You can either add me on Discord with the username **`soullessroozer`** or on [Revolt](https://github.com/revoltchat) with my tag **`Roozy#4867`**, or shoot a message to my contact email: **contact.roozerxc@gmail.com**
