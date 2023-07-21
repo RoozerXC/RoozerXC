@@ -24,12 +24,4 @@ Other than that, nice to meet you. If you want to look at my other stuff you can
   - Windows 2000 Professional SP4 / Windows XP Professional SP3 (Dual Boot)
 
 # *Contact info*
-You can either add me on Discord with the username **`soullessroozer`** or on [Revolt](https://github.com/revoltchat) with my tag **`Roozy#4867`**, or shoot a message to my contact email: **contact.roozerxc@gmail.com**
-
-**BEWARE OF IMPOSTERS AND CHECK ANY FAKE TAGS/EMAIL ADDRESSES.** have a good day :)
-
-<p align="center">
-  <a href="https://discord.com/users/332523229514039296">
-    <img src="https://lanyard-profile-readme.vercel.app/api/332523229514039296" alt="Discord Profile"/>
-  </a>
-</p>
+You can shoot a message to my contact email: **contact.roozerxc@gmail.com**
