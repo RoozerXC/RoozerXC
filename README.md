@@ -20,4 +20,6 @@ If you want to look at my other stuff you can check out my [Neocities website](h
   - Windows 2000 Professional SP4 / Windows XP Professional SP3 (Dual Boot)
 
 # *Contact info*
-You can shoot a message to my contact email: **contact.roozerxc@gmail.com**
+Add me on Discord: `soullessroozer`
+
+You can also shoot a message to my contact email: **contact.roozerxc@gmail.com**
