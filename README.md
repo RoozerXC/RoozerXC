@@ -14,7 +14,7 @@ If you want to look at my other stuff you can check out my [Neocities website](h
 - ### *HP Pavilion p6330f Desktop Computer*
   - ATX 600W power supply
   - Intel® Core™ i3-530
-  - 4GB @ 664 MHz DDR3
+  - 4GB @ 1333 MHz DDR3
   - EVGA GeForce GT 220
   - 128 GB SSD (Boot drive), 500 GB HDD (Stuff)
   - Windows 2000 Professional SP4 / Windows XP Professional SP3 (Dual Boot)
