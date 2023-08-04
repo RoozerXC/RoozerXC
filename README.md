@@ -17,7 +17,7 @@ If you want to look at my other stuff you can check out my [Neocities website](h
   - 8GB @ 1333 MHz DDR3
   - EVGA GeForce GT 220
   - 128 GB SSD (Boot drive), 500 GB HDD (Stuff)
-  - Windows 7 Ultimate 64-bit
+  - Windows 7 Ultimate 64-bit / Revision OS 10 23.07 (Dualboot)
 
 # *Contact info*
 Add me on Discord: `soullessroozer`
