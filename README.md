@@ -15,9 +15,9 @@ If you want to look at my other stuff you can check out my [Neocities website](h
   - ATX 600W power supply
   - Intel® Core™ i3-530
   - 8GB @ 1333 MHz DDR3
-  - EVGA GeForce GT 220
-  - 128 GB SSD (Boot drive), 500 GB HDD (Stuff)
-  - Windows 7 Ultimate 64-bit / Revision OS 10 23.07 (Dualboot)
+  - EVGA GeForce GTX 460
+  - 256 GB SSD (Boot drive), 500 GB HDD (Stuff)
+  - No OS at the moment, but I do plan to install XP/7/8.1/10 all on it or just 7 and 10 once again
 
 # *Contact info*
 Add me on Discord: `soullessroozer`
