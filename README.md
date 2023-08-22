@@ -17,7 +17,9 @@ If you want to look at my other stuff you can check out my [Neocities website](h
   - 8GB @ 1333 MHz DDR3
   - EVGA GeForce® GT 220 1GB
   - 256 GB SSD (Boot drive), 500 GB 7200rpm HDD (Stuff)
-  - Windows 7 Ultimate SP1, Revision OS 10 23.07 (dual boot)
+  - TWO BOOT DRIVES LMAO...
+    - Silicon Power 256GB SSD (256GB SATA SSD, Windows 7 Ultimate SP1 + Revision OS 10 23.07 - Dual Boot)
+    - WDC WD800JD-22MSA1 (80GB SATA HDD, Windows XP Professional SP3)
 
 # *Contact info*
 Add me on Discord: `soullessroozer`
