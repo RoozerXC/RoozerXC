@@ -16,10 +16,10 @@ If you want to look at my other stuff you can check out my [Neocities website](h
   - Intel® Core™ i3-530
   - 8GB @ 1333 MHz DDR3
   - EVGA GeForce® GT 220 1GB
-  - 256 GB SSD (Boot drive), 500 GB 7200rpm HDD (Stuff)
   - TWO BOOT DRIVES LMAO...
     - Silicon Power 256GB SSD (256GB SATA SSD, Windows 7 Ultimate SP1 + Revision OS 10 23.07 - Dual Boot)
-    - WDC WD800JD-22MSA1 (80GB SATA HDD, Windows XP Professional SP3)
+    - WDC WD800JD-22MSA1 (80GB 7200rpm SATA HDD, Windows XP Professional SP3)
+  - External 500 GB 7200rpm SATA HDD (Stuff)
 
 # *Contact info*
 Add me on Discord: `soullessroozer`
