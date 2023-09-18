@@ -22,7 +22,7 @@ If you want to look at my other stuff you can check out my [Neocities website](h
   - EVGA GeForce® GT 220 1GB
   - Silicon Power A55 - Primary Boot Drive (256GB SATA SSD)
       - Windows 7 Ultimate SP1
-      - Revision OS 10 23.07
+      - Revision OS 10 23.08
   - WDC WD800JD-22MSA1 - Secondary Boot Drive (80GB 7200rpm SATA HDD)
       - Windows XP Professional SP3
   - External 500 GB 7200rpm SATA HDD (Stuff)
