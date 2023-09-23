@@ -17,12 +17,12 @@
   - Intel® Core™ i3-530
   - 8GB @ 1333 MHz DDR3
   - EVGA GeForce® GT 220 1GB
-  - Silicon Power A55 256GB SSD - Primary Boot Drive (256GB SATA SSD)
+  - Silicon Power A55 256GB SSD - Primary Boot Drive
       - Windows 7 Ultimate SP1
       - Revision OS 10 23.08
   - Western Digital 80GB HDD - Secondary Boot Drive
       - Windows XP Professional SP3
-  - Western Digital 500GB WD Blue HDD - External 500 GB 7200rpm SATA HDD (Stuff)
+  - Western Digital 500GB WD Blue HDD - Drivers, games, stuff, VM's, warez
 
 # *My other stuff*
 Add me on Discord: `soullessroozer`<br>
