@@ -1,7 +1,4 @@
-# *About me*
-Hey, thank you for tuning into my github profile. You can call me Roozy, Roozer, Trevor or any other name; it doesn't matter
-
-If you want to look at my other stuff you can check out my [Neocities website](https://roozerxc.neocities.org) and my [YouTube channel](https://youtube.com/@roozerxc)
+![](./stuff/wpcstuff2.png)
 
 # *Specs*
 - ### *HP Compaq 8200 Elite Convertible Minitower PC*
@@ -27,7 +24,7 @@ If you want to look at my other stuff you can check out my [Neocities website](h
       - Windows XP Professional SP3
   - External 500 GB 7200rpm SATA HDD (Stuff)
 
-# *Contact info*
-Add me on Discord: `soullessroozer`
-
-You can also shoot a message to my contact email: **contact.roozerxc@gmail.com**
+# *My other stuff*
+Add me on Discord: `soullessroozer`<br>
+Visit my website: [roozerxc.neocities.org](https://roozerxc.neocities.org/index.html)<br>
+Contact email: [contact.roozerxc@gmail.com](mailto:contact.roozerxc@gmail.com)
