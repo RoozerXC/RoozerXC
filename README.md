@@ -9,7 +9,7 @@
   - PNY CS900 SSD - Primary Boot Drive (500GB SATA SSD)
       - Revision OS 10 23.08
   - Lexar NS100 SSD - Secondary Boot Drive (128GB SATA SSD)
-      - Linux Mint 21.2 Xfce
+      - Linux Mint 21.2 Cinnamon
   - 1 TB 7200rpm HDD - All of my stuff lol
   - 2 TB 7200rpm HDD - Archive, games, music, warez
 - ### *HP Pavilion p6330f Desktop Computer*
