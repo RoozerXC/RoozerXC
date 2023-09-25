@@ -13,7 +13,7 @@
   - Seagate Constellation ES.3 1TB HDD - All of my stuff lol
   - Western Digital 2TB WD Blue HDD - Archive, games, music, warez
 - ### *HP Pavilion p6330f Desktop PC*
-  - ???W ATX power supply (might check soon)
+  - 400W ATX power supply
   - Intel® Core™ i5-760
   - 8GB @ 1333 MHz DDR3
   - EVGA GeForce® GT 220 1GB
