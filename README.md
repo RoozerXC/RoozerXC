@@ -14,7 +14,7 @@
   - Western Digital 2TB WD Blue HDD - Archive, games, music, warez
 - ### *HP Pavilion p6330f Desktop PC*
   - ???W ATX power supply (might check soon)
-  - Intel® Core™ i3-530
+  - Intel® Core™ i5-760
   - 8GB @ 1333 MHz DDR3
   - EVGA GeForce® GT 220 1GB
   - Silicon Power A55 256GB SSD - Primary Boot Drive
