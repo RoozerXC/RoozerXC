@@ -3,7 +3,7 @@
 # *Specs*
 - ### *HP Compaq 8200 Elite Convertible Minitower PC*
   - 320W OEM power supply
-  - Intel® Core™ i5-2500
+  - Intel® Core™ i7-2600
   - 32GB @ 1333 MHz DDR3
   - ZOTAC GeForce® GTX 1050 Ti 4GB Mini
   - PNY CS900 500GB SSD - Primary Boot Drive
