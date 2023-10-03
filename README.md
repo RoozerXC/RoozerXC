@@ -16,7 +16,7 @@
   - 400W ATX power supply
   - Intel® Core™ i5-760
   - 8GB @ 1333 MHz DDR3
-  - EVGA GeForce® GT 220 1GB
+  - NVIDIA Quadro K2000 2GB
   - Silicon Power A55 256GB SSD - Primary Boot Drive
       - Windows 7 Ultimate SP1
       - Revision OS 10 23.08
