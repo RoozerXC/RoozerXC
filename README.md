@@ -19,7 +19,6 @@
   - NVIDIA Quadro K2000 2GB
   - Silicon Power A55 256GB SSD - Primary Boot Drive
       - Windows 7 Ultimate SP1
-      - Revision OS 10 23.08
   - Western Digital 80GB HDD - Secondary Boot Drive
       - Windows XP Professional SP3
   - Western Digital 500GB WD Blue HDD - Drivers, games, stuff, VM's, warez
