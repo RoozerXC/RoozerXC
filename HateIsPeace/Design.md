@@ -12,17 +12,6 @@ A tall but wonderful demon with the heart of an angel, Sarven is Roozer's signif
 ### Alice
 Alice is a weapons merchant and runs a store in the town, where she can be used to buy, sell and repair items, along with armor from Roozer's inventory. She is around 5 feet and 2 inches tall, or 157 centimeters
 
-## Bosses
-### Simon
-The betrayer and destroyer of Roozer's former homeland, he is a ruthless boy who wears huge and heavy tactical armor. Apparently he is a shameless knockoff of Davoth from DOOM Eternal, and it can't be helped with the fact that he is just as weak as a french fry (just kidding, he'll probably kick your ass plenty)
-
-### Mecha-Maily + Professor Vaghaun
-A creation from the mind of a madman, Mecha-Maily/Mailman is a machine and a monster at the same time. Maily is equipped with a rocket launcher, a laser and a machine gun on his arms. Part of his face are missing meat and eyes, so part of it shows his skull in the inside
-
-## Miscellany
-### Willow
-[DOCUMENT REDACTED]
-
 # For Devs & Modders
 Hate is Peace utilizes a directory structure akin to that of Amnesia: The Dark Descent (because it uses the same engine duh):
 - `addons` - User-created content, mods or Add-Ons
