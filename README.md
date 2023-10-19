@@ -2,7 +2,7 @@
 
 # *Specs*
 - ### *HP Compaq 8200 Elite Convertible Minitower PC*
-  - 320W OEM power supply
+  - 400W ATX power supply (converted)
   - Intel® Core™ i7-2600
   - 32GB @ 1333 MHz DDR3
   - ZOTAC GeForce® GTX 1050 Ti 4GB Mini
@@ -11,7 +11,7 @@
   - Seagate Constellation ES.3 1TB HDD - All of my stuff lol
   - Western Digital 2TB WD Blue HDD - Archive, games, music, warez
 - ### *HP Pavilion p6330f Desktop PC*
-  - 400W ATX power supply
+  - 300W ATX power supply
   - Intel® Core™ i5-760
   - 8GB @ 1333 MHz DDR3
   - NVIDIA Quadro K2000 2GB
