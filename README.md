@@ -7,7 +7,7 @@
   - 32GB @ 1333 MHz DDR3
   - ZOTAC GeForce® GTX 1050 Ti 4GB Mini
   - PNY CS900 500GB SSD - Primary Boot Drive
-      - Revision OS 10 23.08
+      - Revision OS 10 23.10
   - Seagate Constellation ES.3 1TB HDD - All of my stuff lol
   - Western Digital 2TB WD Blue HDD - Archive, games, music, warez
 - ### *HP Pavilion p6330f Desktop PC*
