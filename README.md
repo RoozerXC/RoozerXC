@@ -18,7 +18,7 @@
   - Silicon Power A55 256GB SSD - Primary Boot Drive
       - Windows 7 Ultimate SP1
   - Western Digital 80GB HDD - Secondary Boot Drive
-      - Windows XP Professional SP3
+      - Windows Server 2003 Enterprise R2
   - Western Digital 500GB WD Blue HDD - Drivers, games, stuff, VM's, warez
 
 # *My other stuff*
