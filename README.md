@@ -4,12 +4,19 @@
 - ### *HP Compaq 8200 Elite Convertible Minitower PC*
   - 320W HP power supply
   - Intel® Core™ i7-2600
-  - 32GB @ 1333 MHz DDR3
+  - 32GB / 4x8GB @ 1333MHz DDR3
   - ZOTAC GeForce® GTX 1050 Ti 4GB Mini
   - PNY CS900 500GB SSD - Primary Boot Drive
-      - Revision OS 10 23.10
+      - Revision OS 10 23.08 (with 23.10 Playbook updates)
   - Seagate Constellation ES.3 1TB HDD - All of my stuff lol
   - Western Digital 2TB WD Blue HDD - Archive, games, music, warez
+- ### *Lenovo Ideapad 100-15ibd*
+  - Intel® Core™ i3-5020U
+  - 8GB / 1x8GB @ 1333MHz DDR3L
+    - Single-slot 1600MHz downclocked by BIOS.
+  - Intel® HD Graphics 5500
+  - Lexar SSD NS100 128GB - Primary Boot Drive
+      - Revision OS 10 23.08
 - ### *HP Pavilion p6330f Desktop PC*
   - 300W ATX power supply
   - Intel® Core™ i5-760
