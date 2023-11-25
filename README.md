@@ -12,8 +12,7 @@
   - Western Digital 2TB WD Blue HDD - Archive, games, music, warez
 - ### *Lenovo Ideapad 100-15ibd*
   - Intel® Core™ i3-5020U
-  - 8GB / 1x8GB @ 1333MHz DDR3L
-    - Single-slot 1600MHz downclocked by BIOS.
+  - 8GB / 1x8GB @ 1600MHz DDR3L
   - Intel® HD Graphics 5500
   - Lexar SSD NS100 128GB - Primary Boot Drive
       - Revision OS 10 23.08
