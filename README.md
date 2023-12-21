@@ -22,9 +22,10 @@
   - 8GB @ 1333 MHz DDR3
   - NVIDIA Quadro K2000 2GB
   - Silicon Power A55 256GB SSD - Primary Boot Drive
+      - Revision OS 10 23.08
       - Windows 7 Ultimate SP1
   - Western Digital 80GB HDD - Secondary Boot Drive
-      - Windows Server 2003 Enterprise R2
+      - Windows XP Professional SP3
   - Western Digital 500GB WD Blue HDD - Drivers, games, stuff, VM's, warez
 
 # *My other stuff*
