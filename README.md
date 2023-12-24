@@ -20,7 +20,7 @@
   - 300W ATX power supply
   - Intel® Core™ i5-760
   - 16GB / 4x4GB @ 1333 MHz DDR3(L?)
-  - NVIDIA Quadro K2000 2GB (upgrading to GTX 660 soon)
+  - EVGA GeForce GTX 660 2GB
   - Silicon Power A55 256GB SSD - Primary Boot Drive
       - Revision OS 10 23.08
       - Windows 7 Ultimate SP1
