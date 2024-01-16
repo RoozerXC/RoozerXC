@@ -29,6 +29,6 @@
   - Western Digital 500GB WD Blue HDD - Drivers, games, stuff, VM's, warez
 
 # *My other stuff*
-Add me on Discord: `soullessroozer`<br>
+Add me on Discord: `kitchenroozie`<br>
 Visit my website: [roozerxc.neocities.org](https://roozerxc.neocities.org/index.html)<br>
 Contact email: [contact.roozerxc@gmail.com](mailto:contact.roozerxc@gmail.com)
