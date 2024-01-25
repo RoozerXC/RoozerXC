@@ -32,7 +32,8 @@
   - Intel® Core™ i3-5020U
   - 8 GB / 1 x 8 GB @ 1600 MHz DDR3L
   - Intel® HD Graphics 5500
-  - Crucial MX500 1TB SSD
+  - Crucial MX500 1TB SSD - Primary Boot Drive
+    - Revision OS 10 23.08
 - ### *Dell Inspiron 1501*
   - AMD Athlon 64 X2 TK-55
   - 4 GB / 2 x 2 GB @ 667 MHz DDR2
