@@ -29,7 +29,7 @@
   - 160 GB IDE HDD (jumped to 32 GB) - Primary Boot Drive
     - Windows 98 Second Edition & MS-DOS 7.1
 - ### *Lenovo Ideapad 100-15ibd*
-  - Intel® Core™ i3-5020U
+  - Intel Core i3-5020U
   - 8 GB / 1 x 8 GB @ 1600 MHz DDR3L
   - Intel® HD Graphics 5500
   - Crucial MX500 1TB SSD - Primary Boot Drive
