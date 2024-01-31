@@ -39,7 +39,7 @@
   - 4 GB / 2 x 2 GB @ 667 MHz DDR2
   - ATI Radeon Xpress 1150
   - Lexar NS100 128 GB - Primary Boot Drive
-    - Windows 2000 Professional SP4
+    - Windows XP Professional SP3
 
 # *My other stuff*
 Add me on Discord: `kitchenroozie`<br>
