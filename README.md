@@ -29,6 +29,6 @@
     - Windows XP Professional SP3
 
 # *My other stuff*
-Add me on Discord: `kitchenroozie`<br>
+Add me on Discord: `therealroozy`<br>
 Visit my website: [roozerxc.neocities.org](https://roozerxc.neocities.org/index.html)<br>
 Contact email: [contact.roozerxc@gmail.com](mailto:contact.roozerxc@gmail.com)
