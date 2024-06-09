@@ -7,7 +7,7 @@
   - 32GB / 4x8GB @ 1333MHz DDR3
   - ZOTAC GeForce GTX 1050 Ti 4GB Mini
   - PNY CS900 500GB SSD - Revision OS 10 23.08
-  - Seagate Constellation ES.3 1TB HDD - All of my stuff lol
+  - Seagate BarraCuda Pro 2TB HDD - All of my stuff lol
   - Western Digital 2TB WD Blue HDD - Archive, games, music, warez
 - ### *DELL Latitude 5490*
   - Intel Core i5-8350U @ 1.7GHz
@@ -27,7 +27,7 @@
   - AMD Turion 64 X2 TL-60 @ 2.0GHz
   - 4GB / 2x2GB @ 667MHz DDR2
   - ATI Radeon Xpress 1150
-  - Lexar NS100 128GB
+  - Crucial MX500 1TB SSD
     - Windows XP Professional SP3
 
 # *My other stuff*
