@@ -25,7 +25,7 @@
   #### Originally this pc was gonna use Windows 98 SE but it was a bit unstable
   - AMD Sempron 3400+ @ 2.0GHz
   - 2GB / 2x1GB @ 400MHz DDR
-  - PNY Verto GeForce 6600 GT 128MB
+  - PNY Verto GeForce 6600 GT PCIe
   - Seagate 7200.7 160GB IDE HDD
     - Windows 2000 Professional SP4
 - ### *DELL Latitude 5490*
