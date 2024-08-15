@@ -42,7 +42,7 @@ Thank you so much for your support and understanding, and I apologize if this so
 - ### *DELL Latitude 5490*
   #### This laptop is amazing. It even handles 4K video well... maybe I optimized Windows so much to the point where it isn't a hot pile of garbage for this laptop. Pretty insane
   - Intel Core i5-8350U @ 1.7GHz
-  - 32GB / 2x16GB @ 2400MHz DDR4
+  - 32GB / 2x16GB @ 2400 MHz DDR4
   - Intel UHD Graphics 620
   - Crucial P3 Plus 1TB NVMe M.2 SSD - Windows 10 IoT Enterprise LTSC 2021
 # *My other stuff*
