@@ -8,7 +8,9 @@ I am 17 years old, currently studying C++ while also trying my hardest to take b
 
 **So if you expected something from me, then I'm sorry for any long waits. Please don't hold your hopes for the things I've been trying to make. Creating mods for the game that I love so dearly to my heart takes a significant amount of time, effort, and resources especially when I'm mostly on my own with everything.**
 
-Thank you so much for your support and understanding, and I apologize if this sounds like a pity story. Feel free to brush it off as you like, but that will never change the fact that I am tired of people who don't treat others with the utmost respect that they deserve for their bravery, hard work and excellence.
+Thank you so much for your support and understanding, and I apologize if this sounds like a pity story. Feel free to brush it off as one if you like, but that will never change the fact that I am tired of people who don't treat others with the utmost respect that they deserve for their bravery, hard work and excellence.
+
+I'm so sorry for fucking up so much and being involved in so much commotion and drama with so many people for the past couple of years. I wish someone out there who is reading this a happy life and some forgiveness.
 
 # *Specs*
 - ### *HP Compaq 8200 Elite CMT*
