@@ -27,12 +27,12 @@ I'm so sorry for fucking up so much and being involved in so much commotion and 
   - 300W ATX power supply
   - Intel Core i5-760 @ 3.33GHz
   - 16GB / 4x4 GB @ 1333MHz DDR3L
-  - EVGA GeForce GTX 660 2GB
+  - ZOTAC GeForce GTX 1050 Ti 4GB
   - Silicon Power A55 256GB SSD (1st boot)
       - Revision OS 10 23.08
       - Windows 7 Ultimate SP1
   - Western Digital 80GB HDD (2nd boot)
-      - Windows XP Professional SP3
+      - Windows XP Professional SP3 (I seriously doubt GTX 1050 Ti would work on this)
   - Western Digital 500GB WD Blue HDD - Drivers, games, stuff, VM's
 - ### *Custom Built Retro Gaming PC*
   #### Originally this pc was gonna use Windows 98 SE but it was a bit unstable. So here I use Windows 2000 Pro SP4. For DOS gaming I might make a partition for the unused space (since the first one uses 128 GB due to a limit in the 2000 filesystem)
@@ -47,6 +47,12 @@ I'm so sorry for fucking up so much and being involved in so much commotion and 
   - 32GB / 2x16GB @ 2400 MHz DDR4
   - Intel UHD Graphics 620
   - Crucial P3 Plus 1TB NVMe M.2 SSD - Windows 10 IoT Enterprise LTSC 2021
+- ### *DELL Inspiron 1501*
+  #### An old laptop that still holds up amazingly. Has the best build quality out of any laptop and is still functional :)
+  - AMD Turion 64 X2 TL-60 @ 2.0 GHz
+  - 4GB / 2x2GB @ 800 MHz DDR2
+  - ATI Radeon Xpress 1150/200M
+  - No SSD or HDD yet...
 # *My other stuff*
 Add me on Discord: `therealroozy`<br>
 Visit my website: [roozerxc.neocities.org](https://roozerxc.neocities.org/index.html)<br>
