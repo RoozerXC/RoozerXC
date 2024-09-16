@@ -35,12 +35,16 @@ I'm so sorry for fucking up so much and being involved in so much commotion and 
       - Windows XP Professional SP3 (I seriously doubt GTX 1050 Ti would work on this)
   - Western Digital 500GB WD Blue HDD - Drivers, games, stuff, VM's
 - ### *Custom Built Retro Gaming PC*
-  #### Originally this pc was gonna use Windows 98 SE but it was a bit unstable. So here I use Windows 2000 Pro SP4. For DOS gaming I might make a partition for the unused space (since the first one uses 128 GB due to a limit in the 2000 filesystem)
-  - AMD Sempron 3400+ @ 2.0GHz
+  #### The mainboard for this will be replaced with an ASUS K8S-LA motherboard with AGP and SiS chipset so that it should support Win9x better.
+  - AMD Athlon 64 3700+ @ 2.2 GHz
+    - will be replaced with AMD Sempron 2600+ @ 1.6 GHz
   - 1GB / 4x256MB @ 400 MHz DDR
-  - EVGA GeForce 7600 GT PCIe
+    - will be replaced with 512MB / 2x256MB @ 400 MHz DDR
+  - PNY Verto NVIDIA GeForce 6600 GT PCIe
+    - will be replaced with PNY NVIDIA GeForce FX 5500 AGP
   - Seagate 7200.7 160GB IDE HDD
     - Windows 2000 Professional SP4
+    - Windows XP Professional SP3
 - ### *DELL Latitude 5490*
   #### This laptop is amazing. It even handles 4K video well... maybe I optimized Windows so much to the point where it isn't a hot pile of garbage for this laptop. Pretty insane
   - Intel Core i5-8350U @ 1.7GHz
