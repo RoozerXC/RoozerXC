@@ -1,63 +1,52 @@
 ![](./stuff/wpcstuff2.png)
 
-Greetings, my name is Roozy McRoozer, you can call me by any name you can think of in the universe whether it be Roozydoopy, doozy/doozer, boozing, kaboozer, Woozer, any that you can think of **at all**. I won't mind if you even called me Tire Iron. *Oh wait...*
-
-I am 17 years old, currently studying C++ while also trying my hardest to take breaks and take it slow. My hobbies are fixing, repairing and building PC's and hardware, programming, gaming, music, and singing. I usually listen to deathcore, grindcore, slam, and blastbeat, as well as prog rock, heavy metal and djent.
-
-**I'm currently taking a hiatus from making concepts and mods for Amnesia: The Dark Descent because of my involvement in a very unhealthy and toxic modding community. Hopefully I will be making a video about it discussing the things I experienced over the past couple of years and how it has significantly drained me.**
-
-**So if you expected something from me, then I'm sorry for any long waits. Please don't hold your hopes for the things I've been trying to make. Creating mods for the game that I love so dearly to my heart takes a significant amount of time, effort, and resources especially when I'm mostly on my own with everything.**
-
-Thank you so much for your support and understanding, and I apologize if this sounds like a pity story. Feel free to brush it off as one if you like, but that will never change the fact that I am tired of people who don't treat others with the utmost respect that they deserve for their bravery, hard work and excellence.
-
-I'm so sorry for fucking up so much and being involved in so much commotion and drama with so many people for the past couple of years. I wish someone out there who is reading this a happy life and some forgiveness.
+Greetings, my name is Roozy McRoozer. I am 17 years old, currently studying C++ while also trying my hardest to take breaks and take things slow. My hobbies are fixing, repairing and building PC's and hardware, programming, gaming, music, and rarely singing. I usually listen to deathcore, grindcore, slam, and blastbeat, as well as prog rock, heavy metal and djent.
 
 # *Specs*
+### *Desktops*
 - ### *HP Compaq 8200 Elite CMT*
-  #### This is my main gaming PC, I've been using it for 5 years ever since I was 12 (I feel a bit old now as I say that lol). I've been upgrading most of the stuff in this pc so I don't have an i5-2500, GTX 1050 Ti and 12 GB of RAM anymore
   - 320W HP power supply
   - Intel Core i7-2600 @ 3.4GHz
   - 32GB / 4x8GB @ 1333MHz DDR3
   - ASUS GeForce RTX 3050 6GB
-  - PNY CS900 500GB SSD - Revision OS 10 23.08
+  - PNY CS900 500GB SSD
+    - Revision OS 10 23.08
   - Seagate BarraCuda Pro 2TB HDD - All of my stuff lol
   - Western Digital 2TB WD Blue HDD - Archive, games, music, warez
 - ### *HP Pavilion p6330f*
-  #### Using it for hosting servers, bots and also as a very fast retro gaming machine. I also use this for data recovery and cloning hard disks/SSD's when I need to
   - 300W ATX power supply
   - Intel Core i5-760 @ 3.33GHz
   - 16GB / 4x4 GB @ 1333MHz DDR3L
-  - ZOTAC GeForce GTX 1050 Ti 4GB
+  - EVGA GeForce GTX 660 2GB
   - Silicon Power A55 256GB SSD (1st boot)
-      - Revision OS 10 23.08
-      - Windows 7 Ultimate SP1
+    - Revision OS 10 23.08
+    - Windows 7 Ultimate SP1
   - Western Digital 80GB HDD (2nd boot)
-      - Windows XP Professional SP3 (I seriously doubt GTX 1050 Ti would work on this)
-  - Western Digital 500GB WD Blue HDD - Drivers, games, stuff, VM's
-- ### *Custom Built Retro Gaming PC*
-  #### The mainboard for this will be replaced with an ASUS K8S-LA motherboard with AGP and SiS chipset so that it should support Win9x better.
-  - AMD Athlon 64 3700+ @ 2.2 GHz
-    - will be replaced with AMD Sempron 2600+ @ 1.6 GHz
-  - 1GB / 4x256MB @ 400 MHz DDR
-    - will be replaced with 512MB / 2x256MB @ 400 MHz DDR
-  - PNY Verto NVIDIA GeForce 6600 GT PCIe
-    - will be replaced with PNY NVIDIA GeForce FX 5500 AGP
-  - Seagate 7200.7 160GB IDE HDD
-    - Windows 2000 Professional SP4
     - Windows XP Professional SP3
+  - Western Digital 500GB WD Blue HDD - Drivers, games, stuff, VM's
+- ### *Custom-Built Retro Gaming PC*
+  - AMD Sempron 2600+ @ 1.6 GHz
+  - 512MB / 2x256MB @ 400 MHz DDR
+  - PNY GeForce FX 5500 AGP
+  - Seagate Barracuda 7200.7 160GB IDE HDD
+    - Windows 98 Second Edition
+    - Windows 2000 Professional
+    - Windows XP Professional
+### *Laptops*
 - ### *DELL Latitude 5490*
-  #### This laptop is amazing. It even handles 4K video well... maybe I optimized Windows so much to the point where it isn't a hot pile of garbage for this laptop. Pretty insane
   - Intel Core i5-8350U @ 1.7GHz
   - 32GB / 2x16GB @ 2400 MHz DDR4
   - Intel UHD Graphics 620
-  - Crucial P3 Plus 1TB NVMe M.2 SSD - Windows 10 IoT Enterprise LTSC 2021
+  - Crucial P3 Plus 1TB NVMe M.2 SSD
+    - Windows 10 IoT Enterprise LTSC 2021
+- ### *DELL Latitude E6420*
+  - Intel Core i5-2520M @ 2.5 GHz
+  - 4GB / 2x2GB @ 1333 MHz DDR3
+  - Intel HD Graphics 3000
+  - WD Blue 500GB 7200rpm HDD
+    - No OS yet...
 - ### *DELL Inspiron 1501*
-  #### An old laptop that still holds up amazingly. Has the best build quality out of any laptop and is still functional :)
   - AMD Turion 64 X2 TL-60 @ 2.0 GHz
   - 4GB / 2x2GB @ 800 MHz DDR2
   - ATI Radeon Xpress 1150/200M
   - No SSD or HDD yet...
-# *My other stuff*
-Add me on Discord: `therealroozy`<br>
-Visit my website: [roozerxc.neocities.org](https://roozerxc.neocities.org/index.html)<br>
-Contact email: [contact.roozerxc@gmail.com](mailto:contact.roozerxc@gmail.com)
