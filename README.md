@@ -9,21 +9,21 @@ Greetings, my name is Roozy McRoozer. I am 18 years old, currently studying C++ 
   - Intel Core i7-2600 @ 3.4GHz
   - 32GB / 4x8GB @ 1333MHz DDR3
   - ASUS GeForce RTX 3050 6GB
-  - PNY CS900 500GB SSD
+  - PNY CS900 500GB SATA SSD
     - Revision OS 10 23.08
-  - Seagate BarraCuda Pro 2TB HDD - All of my stuff lol
-  - Western Digital 2TB WD Blue HDD - Archive, games, music, warez
+  - Seagate BarraCuda Pro 2TB SATA HDD - All of my stuff lol
+  - Western Digital 2TB WD Blue SATA HDD - Archive, games, music, warez
 - ### *HP Pavilion p6330f*
   - 300W ATX power supply
   - Intel Core i5-760 @ 3.33GHz
   - 16GB / 4x4 GB @ 1333MHz DDR3L
   - EVGA GeForce GTX 660 2GB
-  - Silicon Power A55 256GB SSD (1st boot)
+  - Silicon Power A55 256GB SATA SSD (1st boot)
     - Revision OS 10 23.08
     - Windows 7 Ultimate SP1
-  - Western Digital 80GB HDD (2nd boot)
+  - Western Digital 80GB SATA HDD (2nd boot)
     - Windows XP Professional SP3
-  - Western Digital 500GB WD Blue HDD - Drivers, games, stuff, VM's
+  - Western Digital 500GB WD Blue SATA HDD - Drivers, games, stuff, VM's
 - ### *Custom-Built Retro Gaming PC*
   - AMD Sempron 2600+ @ 1.6 GHz
   - 512MB / 2x256MB @ 400 MHz DDR
@@ -38,15 +38,16 @@ Greetings, my name is Roozy McRoozer. I am 18 years old, currently studying C++ 
   - 32GB / 2x16GB @ 2400 MHz DDR4
   - Intel UHD Graphics 620
   - Crucial P3 Plus 1TB NVMe M.2 SSD
-    - Windows 10 IoT Enterprise LTSC 2021
+    - Linux Mint Debian Edition 6
 - ### *DELL Latitude E6420*
   - Intel Core i5-2520M @ 2.5 GHz
   - 4GB / 2x2GB @ 1333 MHz DDR3
   - Intel HD Graphics 3000
-  - WD Blue 500GB 7200rpm HDD
-    - No OS yet...
+  - Crucial MX500 1TB SATA SSD
+    - Windows 7 Ultimate (seems to be having issues atm)
 - ### *DELL Inspiron 1501*
   - AMD Turion 64 X2 TL-60 @ 2.0 GHz
   - 4GB / 2x2GB @ 800 MHz DDR2
   - ATI Radeon Xpress 1150/200M
-  - No SSD or HDD yet...
+  - Some random Toshiba 80 GB SATA HDD...
+    - Still no OS for it though.
