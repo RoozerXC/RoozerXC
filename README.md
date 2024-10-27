@@ -1,6 +1,11 @@
-![](./stuff/wpcstuff2.png)
+# Someone :)))) idk
+18 years old, currently studying C++
 
-Greetings, my name is Roozy McRoozer. I am 18 years old, currently studying C++ while also trying my hardest to take breaks and take things slow. My hobbies are fixing, repairing and building PC's and hardware, programming, gaming, music, and rarely singing. I usually listen to deathcore, grindcore, slam, and blastbeat, as well as prog rock, heavy metal and djent.
+My hobbies are fixing, repairing and building PC's and hardware, programming, gaming, music, and rarely singing
+
+I usually listen to deathcore, grindcore, slam, and blastbeat, as well as prog rock, heavy metal and djent.
+
+i like vildhjarta
 
 # *Specs*
 ### *Desktops*
