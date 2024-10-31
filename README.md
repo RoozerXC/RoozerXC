@@ -45,11 +45,11 @@ i like vildhjarta
   - Crucial P3 Plus 1TB NVMe M.2 SSD
     - Linux Mint Debian Edition 6
 - ### *DELL Latitude E6420*
-  - Intel Core i5-2520M @ 2.5 GHz
-  - 4GB / 2x2GB @ 1333 MHz DDR3
+  - Intel Core i7-2960XM @ 2.7 GHz
+  - 16GB / 2x8GB @ 1333 MHz DDR3
   - Intel HD Graphics 3000
   - Crucial MX500 1TB SATA SSD
-    - Windows 7 Ultimate (seems to be having issues atm)
+    - Windows 7 Ultimate
 - ### *DELL Inspiron 1501*
   - AMD Turion 64 X2 TL-60 @ 2.0 GHz
   - 4GB / 2x2GB @ 800 MHz DDR2
