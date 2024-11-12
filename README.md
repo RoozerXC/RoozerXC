@@ -15,20 +15,22 @@ i like vildhjarta
   - 32GB / 4x8GB @ 1333MHz DDR3
   - ASUS GeForce RTX 3050 6GB
   - PNY CS900 500GB SATA SSD
-    - Revision OS 10 23.08
-  - Seagate BarraCuda Pro 2TB SATA HDD - All of my stuff lol
-  - Western Digital 2TB WD Blue SATA HDD - Archive, games, music, warez
+    - Revision OS 10 23.08 (might switch to 10 IoT LTSC 2021)
+  - Seagate BarraCuda Pro 2TB SATA HDD
+    - All of my stuff lol
+  - Western Digital 2TB WD Blue SATA HDD
+    - Archive, games, music, warez
 - ### *HP Pavilion p6330f*
   - 300W ATX power supply
-  - Intel Core i5-760 @ 3.33GHz
+  - Intel Core i7-870 @ 2.93GHz
   - 16GB / 4x4 GB @ 1333MHz DDR3L
   - EVGA GeForce GTX 660 2GB
-  - Silicon Power A55 256GB SATA SSD (1st boot)
-    - Revision OS 10 23.08
-    - Windows 7 Ultimate SP1
-  - Western Digital 80GB SATA HDD (2nd boot)
+  - Silicon Power A55 256GB SATA SSD
+    - Windows 10 IoT Enterprise LTSC 2021
+  - Western Digital 80GB SATA HDD
     - Windows XP Professional SP3
-  - Western Digital 500GB WD Blue SATA HDD - Drivers, games, stuff, VM's
+  - Western Digital 500GB WD Blue SATA HDD
+    - Drivers, games, stuff, VM's
 - ### *Custom-Built Retro Gaming PC*
   - AMD Sempron 2600+ @ 1.6 GHz
   - 512MB / 2x256MB @ 400 MHz DDR
@@ -50,9 +52,3 @@ i like vildhjarta
   - Intel HD Graphics 3000
   - Crucial MX500 1TB SATA SSD
     - Windows 7 Ultimate
-- ### *DELL Inspiron 1501*
-  - AMD Turion 64 X2 TL-60 @ 2.0 GHz
-  - 4GB / 2x2GB @ 800 MHz DDR2
-  - ATI Radeon Xpress 1150/200M
-  - Some random Toshiba 80 GB SATA HDD...
-    - Still no OS for it though.
