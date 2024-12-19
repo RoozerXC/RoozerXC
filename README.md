@@ -1,5 +1,5 @@
 # Someone :)))) idk
-18 years old, currently studying C++
+18 years old, on hiatus.
 
 My hobbies are fixing, repairing and building PC's and hardware, programming, gaming, music, and rarely singing
 
