@@ -40,7 +40,7 @@ I usually listen to deathcore, grindcore, slam, and blastbeat, as well as prog r
 #### ***Retro Gaming PC***
 - Case: Zalman T6 ATX Tower Case
 - OS: Windows 98 Second Edition
-- MOBO: ASUS Socket 754 K8S-LA (Will be replaced with K8V-SE Deluxe)
+- MOBO: ASUS Socket 754 K8V-SE Deluxe
 - CPU: AMD Sempron 2600+
 - Memory: Samsung DDR M368L3323FTN-CCC (2x256MB) 400
 - Storage: 160GB Seagate Barracuda 7200.7 IDE
