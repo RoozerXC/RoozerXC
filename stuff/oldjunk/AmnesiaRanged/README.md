@@ -1,5 +1,3 @@
-ok so this is basically where all the junk goes
-
 # RangedCode
 **Quick disclaimer: in order to compile correctly you must use the [buzer2020/Amnesia64](https://github.com/buzer2020/Amnesia64) fork for this modification**
 
